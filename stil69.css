@@ -202,7 +202,7 @@ a:hover{
 
 .middle{
     display: flex;
-    background-image: url("images/wall5.jpg");
+    background-image: url("images/backgroundblack.jpg");
     flex-direction: row;
     justify-content: center;
     align-items: flex-end;
@@ -300,7 +300,7 @@ a:hover{
 
 .bigcontainer{
     display: flex;
-    background-image: url("images/glgOg5M\ -\ kopia.jpg");
+    background-image: url("images/backgroundpurpul.jpg");
     flex-direction: row;
     justify-content: center;
     align-items: flex-end;
